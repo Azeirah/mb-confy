@@ -1,0 +1,7 @@
+# build files
+build/
+dist/
+mb_config.egg-info
+
+# python files
+*.pyc
