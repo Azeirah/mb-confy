@@ -4,7 +4,7 @@ Confy is a dictionary with a `.save()` method. Acts exactly the same as a regula
 
 ## Install
 
-`pip install confy`
+`pip install mb-confy`
 
 ## Use
 

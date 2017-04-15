@@ -1,0 +1,5 @@
+setup.py
+mb_confy.egg-info/PKG-INFO
+mb_confy.egg-info/SOURCES.txt
+mb_confy.egg-info/dependency_links.txt
+mb_confy.egg-info/top_level.txt
