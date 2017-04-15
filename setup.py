@@ -15,7 +15,7 @@ setup(
     name='mb-confy',
 
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.1.0',
+    version='0.1.1',
 
     description='A dictionary backed by a real .json file',
     long_description=long_description,
